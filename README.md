@@ -16,3 +16,6 @@ A web application that allows users to search for the current weather in differe
 - **Search Functionality**: Users can enter a city name to get the current weather.
 - **Display Weather Information**: Show temperature, weather conditions, humidity, and wind speed.
 - **Responsive Design**: Ensure the app looks good on both desktop and mobile devices.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Samuelson777/Weather-App/blob/main/LICENSE) file for details.
